@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Página Web desenvolvida para aperfeiçoamento do HTML e CSS.
-- [visite o projeto online] (https://gsilvaol.github.io/land-page-01/)
+Página Web desenvolvida para aperfeiçoamento do HTML e CSS .
+- [visite o projeto online] (https://gsilvaol.github.io/land-page-01/).
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
